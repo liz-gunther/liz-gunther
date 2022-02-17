@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @liz-gunther
-- 👀 I’m interested in B-horror movies, hunting Lake Superior agates, RPGs.
+- 👀 I’m interested in B-horror movies, hunting Lake Superior agates, and RPGs.
 - 🌱 I’m currently learning how to be a Java software developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
